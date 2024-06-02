@@ -4,3 +4,5 @@ This image also has ollama with mistral downloaded as default.
 Run it this way:
 
 docker run -d --gpus all -p 8888:8888 -v /C/Users/LENOVO/OneDrive/Documents/pyProjs/testDockerImages/notebooks:/home/jupyter/  aiimage
+
+Access the notebook by visiting http://localhost:8888
